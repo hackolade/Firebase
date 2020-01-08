@@ -3,7 +3,5 @@
   "version": "1.0.0",
   "description": "",
   "author": "Hackolade",
-  "dependencies": {
-    "nodejs-firestore": "^4.8.2"
-  }
+  "installed": true
 }

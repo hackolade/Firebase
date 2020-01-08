@@ -15,7 +15,14 @@
         },
         "features": {
             "jaySchemaHasRequiredPatternField": true,
-            "nestedCollections": false
+            "nestedCollections": false,
+            "enableReverseEngineering": {
+                "jsonDocument": true,
+                "jsonSchema": true,
+                "ddl": true,
+                "xsd": true,
+                "plugin": false
+            }
         }
     },
     "description": "Hackolade plugin for Google Realtime Firebase",
